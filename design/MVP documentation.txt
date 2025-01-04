@@ -1,0 +1,3 @@
+"As an unauthenticated user, I can review a list of doomsday asteroids so I can properly quantify my fear. I can see all of the asteroids, their ID, name, diameter in kilometers, velocity in kilometers, how much of Earth's population is going to perish, the date of impact and a description of the asteroid."
+
+"As an authenticated user, by logging in I can search for a specific doomsday asteroid by ID, delete an asteroid, create an asteroid and/or update an asteroid."
